@@ -77,7 +77,3 @@
 
         allure serve allure-results
 
-
-## Финальный проект
-
-[Ссылка на финальный проект](https://github.com/TimKenessov/qa_automation_course_work)
